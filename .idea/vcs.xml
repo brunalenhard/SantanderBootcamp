@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/BanklineJAVA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Java/ModuloJAVAProjetoBanco" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/ModuloJAVAProjetoBanco" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/moduloJava" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/moduloJava/moduloJAVAProjetoBanco" vcs="Git" />
+  </component>
+</project>
