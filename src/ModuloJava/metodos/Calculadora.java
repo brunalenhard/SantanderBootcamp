@@ -1,7 +1,4 @@
-package moduloJava.metodos;//calculadora
-//hora do dia
-//calculo do emprestinmo
-
+package moduloJava.metodos;
 public class Calculadora {
 
     public static void soma(double n1, double n2) {
